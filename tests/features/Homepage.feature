@@ -1,3 +1,4 @@
+@api
 Feature: Home page
 Scenario: An anonymous user views the homepage
   Given I am an anonymous user
